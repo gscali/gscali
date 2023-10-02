@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Gabriel Scalisi, student in 42Nice</h1>
+<h1 align="center">Hi 👋, I'm Gabriel Scalisi, developer at Ipepper</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gscali&label=Profile%20views&color=0e75b6&style=flat" alt="gscali" /> </p>
 
-- 🔭 I’m currently working on **Transcendance**
+- 🔭 I’m currently working on ** an accounting interface **
 
-- 🌱 I’m currently learning **Javascript, React, Nest, Next, graphql**
+- 🌱 I’m currently learning **Javascript, Svelte, Nest, Next, Python**
 
 - 📫 How to reach me **gabriel.scalisi@yahoo.com**
 
